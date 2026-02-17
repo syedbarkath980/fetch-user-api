@@ -1,4 +1,4 @@
-# fetch-user-api
+# FETCHING USERS USING API
 Using an API to fetch user names.
 
 ## What this project does
